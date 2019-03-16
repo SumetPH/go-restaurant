@@ -1,6 +1,6 @@
 <template>
   <div class="row justify-content-center">
-    <div class="col-md-9">
+    <div class="col-md-6">
       <form @submit.prevent="submit">
         <div class="form-group">
           <label>รหัสเมนู</label>
