@@ -9,3 +9,6 @@ Host : Heroku
 
 ## Reference
 https://go-restaurant-sumetph.herokuapp.com/
+
+## Example
+<img src="https://i.imgur.com/Dx6cspb.png" />
